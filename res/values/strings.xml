@@ -4,5 +4,7 @@
     <string name="app_name">Glass Wifi Connect</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
-
+    
+    <string name="glass_voice_trigger">Connect to Wifi</string>
+    
 </resources>
